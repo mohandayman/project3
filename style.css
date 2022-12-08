@@ -1,0 +1,55 @@
+ body{
+     text-transform: capitalize;
+     font-family: sans-serif;
+     margin: 10 0 0 0;
+ }
+ header{
+display: flex;
+justify-content: space-between;
+} 
+
+.name {
+    margin-top: 40px;
+    
+  
+
+}
+
+.img {
+    width: 200px;
+    display: block;
+    float: right;
+}
+.obj{
+
+}
+.pobj{
+    float: left;
+    color: #9EADAC;
+}
+.edu{
+    
+}
+li{
+    color: #9EADAC;
+}
+.contact{
+    background-color: #17F7E8;
+    width: 80%;
+    height: 300px;
+    border-radius: 3%;
+    color: #fff;
+    margin: 0 auto;
+    font-size: 20px;
+
+
+}
+.contact input{
+width: 36%;
+border-radius: 5%;
+font-size: 20px;
+margin: 20px;
+border: #fff;
+
+}
+
